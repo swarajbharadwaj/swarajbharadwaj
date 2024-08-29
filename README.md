@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swaraj Kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/konyan/konyan/master/images/profile.png">
-- 🔭 I’m currently working on **Fake news detector**
+- 🔭 I’m currently working on **Ai size chart Generator**
 
 - 🌱 I’m currently learning **Machine Learning**
 
